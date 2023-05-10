@@ -5,7 +5,7 @@ Copy code
   /* Center align the iframe */
   iframe {
     display: block;
-    margin: 0 auto;
+    margin: 100 auto;
   }
 </style>
 
