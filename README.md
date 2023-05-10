@@ -1,4 +1,5 @@
 <style>
+    /* Center align the iframe */
   iframe {
     width: 65%;
     height: 600px;
