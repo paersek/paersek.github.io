@@ -1,11 +1,8 @@
-
-html
-Copy code
 <style>
   /* Center align the iframe */
   iframe {
     display: block;
-    margin: 100 auto;
+    margin: 0 auto;
   }
 </style>
 
