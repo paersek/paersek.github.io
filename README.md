@@ -1,6 +1,6 @@
 <style>
   iframe {
-    width: 100%;
+    width: 90%;
     height: 500px;
   }
 </style>
