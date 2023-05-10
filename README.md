@@ -1,7 +1,7 @@
 <style>
   iframe {
     width: 70%;
-    height: 500px;
+    height: 700px;
   }
 </style>
 
