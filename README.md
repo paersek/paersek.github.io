@@ -6,4 +6,4 @@
   }
 </style>
 
-<iframe src="[https://mentalcanvas.com/vm/tr7fbzu/scene/" width="400" height="600"></iframe>
+<iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/" style="width:60%; height:500px;"></iframe>
