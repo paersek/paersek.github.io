@@ -1,3 +1,8 @@
-html
-Copy code
-<iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/" width="1000" height="1000"></iframe>
+<style>
+  iframe {
+    width: 100%;
+    height: 500px;
+  }
+</style>
+
+<iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/"></iframe>
