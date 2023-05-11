@@ -15,7 +15,7 @@
 </head>
 <body>
 	<h1>Welcome to my website</h1>
-	<img src="https://github.com/your-username/your-repository-name/raw/main/path/to/your/image.png" alt="Description of your image">
+	<img src="https://github.com/paersek/paersek.github.io/blob/b542bf8798a18e0c34b7cee55815c0f0de04cb23/DavidWordMark0.png" alt="Description of your image">
 	<p>This is an example of how to add a PNG image to your GitHub website using the HTML img tag.</p>
 </body>
 </html>
