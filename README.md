@@ -1,4 +1,3 @@
-}
 <style>
   /* Center align the iframe */
   iframe {
