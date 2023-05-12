@@ -10,11 +10,6 @@
 
 <img src="DavidWordMarkWithField3.png" alt="DavidField">
 
-@font-face {
-  font-family: 'Juventus 1997-1998.ttf';
-  src: url('Juventus 1997-1998.ttf');
-}
-
-.text-container {
-  font-family: 'Juventus 1997-1998.ttf', sans-serif;
-}
+<div class="text-container">
+  <p>Your text here</p>
+</div>
