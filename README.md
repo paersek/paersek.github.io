@@ -1,7 +1,13 @@
-<style>
-  @import url("https://use.typekit.net/sik4wkn.css");
-</style>
 
+@font-face {
+  font-family: 'PathwayExtreme-VariableFont_opsz,wdth,wght.ttf';
+  src: url('./fonts/PathwayExtreme-VariableFont_opsz,wdth,wght.ttf') format('truetype');
+}
+body {
+  font-family: 'MyCustomFont', sans-serif;
+  background-color: black;
+  color: white;
+}
 <style>
   /* Center align the iframe */
   iframe {
@@ -15,5 +21,5 @@
 <img src="DavidWordMarkWithField3.png" alt="DavidField">
 
 <div class="text-container">
-  <p>Your text herdestddfsdfdsfdfsdsfdsgsrtre</p>
+  <p>Your text</p>
 </div>
