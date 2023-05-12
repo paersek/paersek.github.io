@@ -6,7 +6,7 @@
   }
 </style>
 
-<iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/" style="width:100%; height:900px;"></iframe>
+<iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/" style="width:80%; height:900px;"></iframe>
 
 <img src="DavidWordMarkWithField3.png" alt="DavidField">
 
