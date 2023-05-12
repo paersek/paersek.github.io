@@ -12,12 +12,12 @@
 <img src="DavidWordMarkWithField3.png" alt="DavidField">
 
 <div class="text-container">
-  <p>Your 2text</p>
+  <p>Your 3text</p>
 </div>
 
 @font-face {
   font-family: 'MyCustomFont';
-  src: url('paersek/paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf');
+  src: url('paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf');
 }
 
 body {
