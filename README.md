@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: 'Juventus 1997-1998.ttf';
-  src: url('custom-font.ttf');
+  src: url('Juventus 1997-1998.ttf');
 }
 
 .text-container {
