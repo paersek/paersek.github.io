@@ -12,27 +12,23 @@
 <img src="DavidWordMarkWithField3.png" alt="DavidField">
 
 <div class="text-container">
-  <p>Your text</p>
+  <p>Your 2text</p>
 </div>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>MyfdgWebsite</title>
-  <style>
-    @font-face {
-      font-family:'PathwayExtremet_SemiCondensed-Medium';
-      src: url('PathwayExtreme_SemiCondensed-Medium.ttf') format('truetype');
-    }
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('paersek/paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf');
+}
 
-    body {
-      font-family: 'PathwayExtreme_SemiCondensed-Medium', sans-serif;
-    }
-  </style>
-</head>
-<body>
-  <h1>Welcome to my ggggwebsit3e2</h1>
-  <p>This is some text on my webpage.</p>
-</body>
-</html>
+body {
+  font-family: 'MyCustomFont', sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+}
