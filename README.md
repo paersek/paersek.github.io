@@ -8,4 +8,4 @@
 
 <iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/" style="width:100%; height:900px;"></iframe>
 
-<img src="DavidWordMarkWithField2.png" alt="DavidField">
+<img src="DavidWordMarkWithField3.png" alt="DavidField">
