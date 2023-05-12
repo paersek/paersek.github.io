@@ -22,12 +22,12 @@
   <title>My Website</title>
   <style>
     @font-face {
-      font-family: 'PathwayExtreme_28pt_SemiCondensed-Medium';
-      src: url('PathwayExtreme_28pt_SemiCondensed-Medium.ttf') format('truetype');
+      font-family: 'PathwayExtremet_SemiCondensed-Medium';
+      src: url('PathwayExtreme_SemiCondensed-Medium.ttf') format('truetype');
     }
 
     body {
-      font-family: 'PathwayExtreme_28pt_SemiCondensed-Medium', sans-serif;
+      font-family: 'PathwayExtreme_SemiCondensed-Medium', sans-serif;
     }
   </style>
 </head>
