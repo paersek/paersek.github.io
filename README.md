@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="https://use.typekit.net/sik4wkn.css">
+<style>
+  @import url("https://use.typekit.net/sik4wkn.css");
+</style>
 
 <style>
   /* Center align the iframe */
