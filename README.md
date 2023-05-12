@@ -1,10 +1,3 @@
-@font-face {
-  font-family: 'Juventus 1997-1998.ttf';
-  src: url('Juventus 1997-1998.ttf');
-}
-
-body {
-  font-family: 'Juventus 1997-1998.ttf', sans-serif;
 }
 <style>
   /* Center align the iframe */
