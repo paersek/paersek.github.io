@@ -19,10 +19,10 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>My Website</title>
+  <title>MyfdgWebsite</title>
   <style>
     @font-face {
-      font-family: 'PathwayExtremet_SemiCondensed-Medium';
+      font-family:'PathwayExtremet_SemiCondensed-Medium';
       src: url('PathwayExtreme_SemiCondensed-Medium.ttf') format('truetype');
     }
 
