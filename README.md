@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: 'CustomFont', sans-serif;
+  font-family: 'Juventus 1997-1998.ttf', sans-serif;
 }
 <style>
   /* Center align the iframe */
@@ -17,8 +17,6 @@ body {
 <iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/" style="width:100%; height:900px;"></iframe>
 
 <img src="DavidWordMarkWithField3.png" alt="DavidField">
-
-
 
 <div class="text-container">
   <p>Your text here</p>
