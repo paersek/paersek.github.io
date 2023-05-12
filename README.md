@@ -16,12 +16,12 @@
 </div>
 
 @font-face {
-  font-family: 'MyCustomFont';
+  font-family: 'paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf';
   src: url('paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf');
 }
 
 body {
-  font-family: 'MyCustomFont', sans-serif;
+  font-family: paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf;
 }
 
 h1 {
