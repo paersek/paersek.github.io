@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://use.typekit.net/sik4wkn.css">
+
 <style>
   /* Center align the iframe */
   iframe {
