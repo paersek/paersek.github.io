@@ -1,13 +1,4 @@
 
-@font-face {
-  font-family: 'PathwayExtreme-VariableFont_opsz,wdth,wght.ttf';
-  src: url('./fonts/PathwayExtreme-VariableFont_opsz,wdth,wght.ttf') format('truetype');
-}
-body {
-  font-family: 'MyCustomFont', sans-serif;
-  background-color: black;
-  color: white;
-}
 <style>
   /* Center align the iframe */
   iframe {
@@ -23,3 +14,25 @@ body {
 <div class="text-container">
   <p>Your text</p>
 </div>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+  <style>
+    @font-face {
+      font-family: 'MyCustomFont';
+      src: url('./fonts/PathwayExtreme-VariableFont_opsz,wdth,wght.ttf') format('truetype');
+    }
+
+    body {
+      font-family: 'MyCustomFont', sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to my website</h1>
+  <p>This is some text on my webpage.</p>
+</body>
+</html>
