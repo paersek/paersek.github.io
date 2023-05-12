@@ -18,6 +18,3 @@
 .text-container {
   font-family: 'Juventus 1997-1998.ttf', sans-serif;
 }
-<div class="text-container">
-  <p>Your text here</p>
-</div>
