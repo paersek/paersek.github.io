@@ -14,21 +14,3 @@
 <div class="text-container">
   <p>Your 3text</p>
 </div>
-
-@font-face {
-  font-family: 'paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf';
-  src: url('paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf');
-}
-
-body {
-  font-family: paersek.github.io/blob/main/PathwayExtreme_28pt_SemiCondensed-Medium.ttf;
-}
-
-h1 {
-  font-size: 32px;
-  font-weight: bold;
-}
-
-p {
-  font-size: 16px;
-}
