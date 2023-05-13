@@ -9,7 +9,7 @@
 
 <iframe src="https://mentalcanvas.com/vm/tr7fbzu/scene/" style="width:80%; height:900px;"></iframe>
 
-<img src="DavidWordMarkWithField3.png" alt="DavidField">
+<img src="DavidWordMarkWithField6.png" alt="DavidField">
 
 <div class="text-container">
   <p>Your 3text</p>
