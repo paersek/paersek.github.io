@@ -11,4 +11,4 @@
 
 <img src="DavidWordMarkWithField6.png" alt="DavidField">
 
-<img src="PeakSeason5-14v4.png" alt="Peak Season">
+<img src="PeakSeason5-14v5.png" alt="Peak Season">
