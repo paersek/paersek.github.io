@@ -11,11 +11,9 @@
 
 <img src="DavidWordMarkWithField6.png" alt="DavidField">
 
+<img src="PeakSeason5-14v8.png" alt="Peak Season Movie Poster" usemap="#peak-season-map">
 
-
-<img src="PeakSeason5-14v8.png" usemap="#image-map">
-
-<map name="image-map">
+<map name="peak-season-map">
   <area target="_blank" alt="Collider Review" title="Collider Review" href="https://collider.com/peak-season-movie-review/" coords="850,4018,1124,4065" shape="rect">
   <area target="_blank" alt="The Daily Beast Review" title="The Daily Beast Review" href="https://www.thedailybeast.com/obsessed/peak-season-review-romantic-beauty-for-heartbroken-millennials?ref=scroll" coords="1257,4149,722,4096" shape="rect">
 </map>
