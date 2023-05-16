@@ -11,8 +11,5 @@
 
 <img src="DavidWordMarkWithField6.png" alt="DavidField">
 
-<img src="PeakSeason5-14v6.png" alt="Peak Season">
+<img src="PeakSeason5-14v5.png" alt="Peak Season">
 
-<img src="PeakSeason_Collider_Blue.png" alt="Collider Review">
-
-<img src="PeakSeason_TheDailyBeast_BLUE.png" alt="The Daily Beast Review">
