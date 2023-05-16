@@ -11,11 +11,12 @@
 
 <img src="DavidWordMarkWithField6.png" alt="DavidField">
 
-<img src="PeakSeason5-14v7.png" usemap="#image_map">
-<map name="image_map">
-  <area alt="Collider - Peak Season " title="Collider - Peak Season " href="https://collider.com/peak-season-movie-review/" coords="891,4015,1074,4070" shape="rect">
-  <area alt="The Daily Beast - Peak Season" title="The Daily Beast - Peak Season" href="https://www.thedailybeast.com/obsessed/peak-season-review-romantic-beauty-for-heartbroken-millennials" coords="815,4099,1149,4140" shape="rect">
-</map>
 
+<img src="PeakSeason5-14v7.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="_blank" alt="Collider" title="Collider" href="https://collider.com/peak-season-movie-review/" coords="892,4020,1075,4067" shape="rect">
+    <area target="_blank" alt="The Daily Beast" title="The Daily Beast" href="https://www.thedailybeast.com/obsessed/peak-season-review-romantic-beauty-for-heartbroken-millennials" coords="814,4100,1147,4141" shape="rect">
+</map>
 
 
