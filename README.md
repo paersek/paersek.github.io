@@ -13,7 +13,7 @@
 
 
 
-<img src="PeakSeason5-14v8.png" usemap="#image-map">
+<img src="paersek.github.io/PeakSeason5-14v8.png" usemap="#image-map">
 
 <map name="image-map">
   <area target="_blank" alt="Collider Review" title="Collider Review" href="https://collider.com/peak-season-movie-review/" coords="850,4018,1124,4065" shape="rect">
