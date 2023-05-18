@@ -63,7 +63,7 @@ export default function HomePage() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            fADWEEK: TIKTOK DEBUTS CREATOR PORTAL
+            ADWEEK: TIKTOK DEBUTS CREATOR PORTAL
           </a>
         </Container>
       </Container>
@@ -97,6 +97,13 @@ export default function HomePage() {
         </Container>
 
         <Container orientation="vertical" gap={20}>
+          <SectionTitle title="SOCIAL ADS" />
+          <Container orientation="horizontal" gap={20}>
+            <VimeoEmbed videoId="827811965" type="portrait" />
+            <VimeoEmbed videoId="827788556" type="portrait" />
+            <VimeoEmbed videoId="827780095" type="portrait" />
+            
+         <Container orientation="vertical" gap={20}>
           <SectionTitle title="SOCIAL ADS" />
           <Container orientation="horizontal" gap={20}>
             <VimeoEmbed videoId="827811965" type="portrait" />
