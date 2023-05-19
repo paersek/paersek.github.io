@@ -1,5 +1,5 @@
 import localFont from 'next/font/local';
 
 export const DefaultFont = localFont({
-  src: 'app/fonts/Adidas 2002.ttf'
+  src: './fonts/Juventus 1997-1998 (1).ttf'
 });
