@@ -80,7 +80,7 @@ export default function HomePage() {
         </Container>
 
         <Container orientation="vertical" gap={20}>
-          <SectionTitle title="FEATURE TUTORIALS" />
+          <SectionTitle title="@TikTokTips - Feature Tutorials" />
           <Container orientation="horizontal" gap={20}>
             <VimeoEmbed videoId="827781356" type="portrait" />
             <VimeoEmbed videoId="827778640" type="portrait" />
@@ -88,7 +88,7 @@ export default function HomePage() {
         </Container>
 
         <Container orientation="vertical" gap={20}>
-          <SectionTitle title="CULTURE" />
+          <SectionTitle title="@TikTok - Culture" />
           <Container orientation="horizontal" gap={20}>
             <VimeoEmbed videoId="827780935" type="portrait" />
             <VimeoEmbed videoId="827812697" type="portrait" />
@@ -97,7 +97,7 @@ export default function HomePage() {
         </Container>
 
         <Container orientation="vertical" gap={20}>
-          <SectionTitle title="SOCIAL ADS" />
+          <SectionTitle title="TikTok - Social Ads" />
           <Container orientation="horizontal" gap={20}>
             <VimeoEmbed videoId="827811965" type="portrait" />
             <VimeoEmbed videoId="827788556" type="portrait" />
@@ -121,7 +121,7 @@ export default function HomePage() {
         </Container>
      
           <Container orientation="vertical" gap={20}>
-          <SectionTitle title="TIKTOK PSA's" />
+          <SectionTitle title="@TikTok PSA's" />
           <Container orientation="horizontal" gap={20}>
             <VimeoEmbed videoId="828064428" type="portrait" />
             <VimeoEmbed videoId="828517152" type="portrait" />
