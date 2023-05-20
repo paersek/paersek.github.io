@@ -110,9 +110,17 @@ export default function HomePage() {
             <VimeoEmbed videoId="827780064" type="portrait" />
             <VimeoEmbed videoId="828064365" type="portrait" />
             <VimeoEmbed videoId="828402027" type="portrait" />
+            <VimeoEmbed videoId="828517277" type="portrait" />
           </Container>
         </Container>
      
+          <Container orientation="vertical" gap={20}>
+          <Container orientation="horizontal" gap={20}>
+            <VimeoEmbed videoId="828517277" type="portrait" />
+            <VimeoEmbed videoId="828064365" type="portrait" />
+            <VimeoEmbed videoId="828402027" type="portrait" />
+          </Container>
+        </Container>
         
       </Container>
     </Container>
