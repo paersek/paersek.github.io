@@ -24,11 +24,29 @@ export default function HomePage() {
 
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
-          title="DIRECTING REEL"
+          title="Directing Reel"
           videoId="827763770"
           type="landscape"
         />
       </Container>
+      
+      <Container orientation="vertical" gap={10}>
+        <VimeoEmbed
+          title="TikTok Creative Studio Marketing Reel - Lead Editor"
+          videoId="827763770"
+          type="landscape"
+        />
+      </Container>
+       <Container orientation="vertical" gap={0}>
+          <div>PRESS:</div>
+          <a
+            href="https://www.adweek.com/media/tiktok-debuts-tiktok-creator-portal/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ADWEEK: TIKTOK DEBUTS CREATOR PORTAL
+          </a>
+        </Container>
 
       <Container orientation="vertical" gap={20}>
         <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
@@ -54,18 +72,7 @@ export default function HomePage() {
           title="TIKTOK CREATIVE STUDIO MARKETING REEL - LEAD EDITOR"
           videoId="776837738"
           type="landscape"
-        />
-
-        <Container orientation="vertical" gap={0}>
-          <div>PRESS:</div>
-          <a
-            href="https://www.adweek.com/media/tiktok-debuts-tiktok-creator-portal/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            ADWEEK: TIKTOK DEBUTS CREATOR PORTAL
-          </a>
-        </Container>
+        />       
       </Container>
 
       <Container orientation="vertical" gap={20}>
