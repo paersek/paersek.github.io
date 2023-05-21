@@ -121,7 +121,6 @@ export default function HomePage() {
         </Container>
      
           <Container orientation="vertical" gap={20}>
-          <SectionTitle title="@TikTok PSA's" />
           <Container orientation="horizontal" gap={20}>
             <VimeoEmbed videoId="828064428" type="portrait" />
             <VimeoEmbed videoId="828517152" type="portrait" />
