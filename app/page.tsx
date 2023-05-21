@@ -21,6 +21,24 @@ export default function HomePage() {
         />
         <Image src={DavidImage} alt="David" />
       </Container>
+      
+       <Container orientation="vertical" gap={20}>
+          <Container orientation="horizontal" gap={20}>
+            <Image src={DavidImage} alt="David" />
+                      type="landscape"
+          credits={[
+            'Editors: Conor Kort, Patrick Ward',
+            'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
+            'Animation: Johnny Chiu',
+            '3D: Ian Alexander',
+            'Copy: Eric Simpson, Maddie Schafer',
+            'Producer: Lee Sacks'
+          ]}
+        />       
+      </Container>
+
+          </Container>
+        </Container>
 
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
@@ -28,7 +46,7 @@ export default function HomePage() {
           videoId="827763770"
           type="landscape"
         />
-      </Container>
+      </Container>      
       
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
