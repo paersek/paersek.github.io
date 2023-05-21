@@ -126,6 +126,7 @@ export default function HomePage() {
             <VimeoEmbed videoId="828064428" type="portrait" />
             <VimeoEmbed videoId="828517152" type="portrait" />
             <VimeoEmbed videoId="828517066" type="portrait" />
+            <VimeoEmbed videoId="828517277" type="portrait" />
           </Container>
         </Container>
         
