@@ -33,7 +33,7 @@ export default function HomePage() {
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           title="TikTok Creative Studio Marketing Reel - Lead Editor"
-          videoId="827763770"
+          videoId="776837738"
           type="landscape"
         />
       </Container>
@@ -67,11 +67,6 @@ export default function HomePage() {
             'Copy: Eric Simpson, Maddie Schafer',
             'Producer: Lee Sacks'
           ]}
-        />
-        <VimeoEmbed
-          title="TIKTOK CREATIVE STUDIO MARKETING REEL - LEAD EDITOR"
-          videoId="776837738"
-          type="landscape"
         />       
       </Container>
 
