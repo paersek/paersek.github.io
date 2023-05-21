@@ -72,14 +72,6 @@ export default function HomePage() {
         <SectionTitle title="TIKTOKS" />
 
         <Container orientation="vertical" gap={20}>
-          <SectionTitle title="NHL - PITTSBURGH PENGUINS - HOCKEY SZN" />
-          <Container orientation="horizontal" gap={20}>
-            <VimeoEmbed videoId="827787427" type="portrait" />
-            <VimeoEmbed videoId="827787395" type="portrait" />
-          </Container>
-        </Container>
-
-        <Container orientation="vertical" gap={20}>
           <SectionTitle title="@TikTokTips - Feature Tutorials" />
           <Container orientation="horizontal" gap={20}>
             <VimeoEmbed videoId="827781356" type="portrait" />
@@ -103,16 +95,16 @@ export default function HomePage() {
         <Container orientation="vertical" gap={20}>
           <SectionTitle title="TikTok - Social Ads" />
           <Container orientation="horizontal" gap={20}>
-            <VimeoEmbed videoId="827787395" type="portrait" />
+            <VimeoEmbed videoId="827787427" type="portrait" />
             <VimeoEmbed videoId="827787395" type="portrait" />
             <VimeoEmbed videoId="827811965" type="portrait" />
-            <VimeoEmbed videoId="827788556" type="portrait" />
-            <VimeoEmbed videoId="827780095" type="portrait" />
+            <VimeoEmbed videoId="827788556" type="portrait" /> 
           </Container>
         </Container>
         
           <Container orientation="vertical" gap={20}>
           <Container orientation="horizontal" gap={20}>
+            <VimeoEmbed videoId="827780095" type="portrait" />
             <VimeoEmbed videoId="827780064" type="portrait" />
             <VimeoEmbed videoId="828064365" type="portrait" />
             <VimeoEmbed videoId="828402027" type="portrait" />
