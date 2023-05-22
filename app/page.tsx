@@ -22,11 +22,14 @@ export default function HomePage() {
           style={{ aspectRatio: '9 / 13' }}
         />
         <Image src={DavidImage} alt="David" />
-        <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
       </Container>
     </Container>
   );
 }
+
+  <Container orientation="vertical" gap={10}>
+        <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
+      </Container>
       
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
