@@ -1,12 +1,3 @@
-  <Container orientation="vertical" gap={10}>
-        <VimeoEmbed
-          title="Directing Reel"
-          videoId="827763770"
-          type="landscape"
-        />
-      </Container>
-
-
 import {
   Container,
   Embed,
