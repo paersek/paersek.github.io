@@ -24,6 +24,7 @@ export default function HomePage() {
       
       <Container orientation="vertical" gap={20}>
         <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
+        <Image src={DavidImage} alt="David" />
         <VimeoEmbed
           title="TIKTOK EVERGREEN 30s - EDITOR"
           videoId="827456818"
