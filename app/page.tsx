@@ -41,13 +41,10 @@ export default function HomePage() {
           title="TikTok Creative Studio Marketing Reel - Lead Editor"
           videoId="776837738"
           type="landscape"
-          credits={[
-            'Editors: Conor Kort, Patrick Ward',
-            'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
-            'Animation: Johnny Chiu',
-            '3D: Ian Alexander',
-            'Copy: Eric Simpson, Maddie Schafer',
-            'Producer: Lee Sacks'
+                    fdfdsfs
+                    sfdsds
+                    fdsfds
+                    sdfdds
         />
       </Container>
        <Container orientation="vertical" gap={0}>
