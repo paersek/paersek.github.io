@@ -23,8 +23,7 @@ export default function HomePage() {
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
       </Container>
-       
-      
+    
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           title="Directing Reel"
@@ -136,6 +135,14 @@ export default function HomePage() {
             <VimeoEmbed videoId="828517277" type="portrait" />
           </Container>
         </Container>
+        
+           <Container orientation="vertical" gap={10}>
+        <VimeoEmbed
+          title="Directing Reel"
+          videoId="828517347"
+          type="landscape"
+        />
+      </Container>
         
       </Container>
     </Container>
