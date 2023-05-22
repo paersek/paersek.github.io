@@ -5,7 +5,7 @@ import {
   SectionTitle,
   VimeoEmbed
 } from 'app/components';
-import DavidImage from 'app/images/PeakSeasonPoster_WEB_5-21v3.png';
+import DavidImage2 from 'app/images/PeakSeasonPoster_WEB_5-21v3.png';
 
 export const metadata = {
   title: 'Paersek'
@@ -19,8 +19,8 @@ export default function HomePage() {
           src="https://mentalcanvas.com/vm/tr7fbzu/scene/"
           style={{ aspectRatio: '9 / 13' }}
         />
-        <Image src={DavidImage} alt="David" />
-        <Image src={DavidImage} alt="David" />
+        <Image src={DavidImage2} alt="David" />
+        <Image src={DavidImage2} alt="David" />
       </Container>
       
       
