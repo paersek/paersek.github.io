@@ -22,22 +22,6 @@ export default function HomePage() {
         <Image src={DavidImage} alt="David" />
       </Container>
       
-import {
-  Container,
-  Embed,
-  Image,
-  SectionTitle,
-  VimeoEmbed
-} from 'app/components';
-import PSImage from 'app/images/PeakSeasonPoster_WEB_5-21v2.png';
-      
-      export default function HomePage() {
-  return (
-    <Container orientation="vertical" gap={100}>
-      <Container orientation="vertical" gap={10}>
-        <Image src={PSImage} alt="PSimage" />
-      </Container>
-      
       
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
