@@ -20,6 +20,7 @@ export default function HomePage() {
           style={{ aspectRatio: '9 / 13' }}
         />
         <Image src={DavidImage} alt="David" />
+        <Image src={PeakSeason} alt="PeakSeason" />
       </Container>
 
       <Container orientation="vertical" gap={10}>
