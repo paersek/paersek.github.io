@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   Container,
   Embed,
@@ -7,7 +6,6 @@ import {
   VimeoEmbed
 } from 'app/components';
 import DavidImage from 'app/images/David_5-16v1.png';
-import PeakSeasonPosterImage from 'app/images/PeakSeasonPoster_WEB_5-21v2.png';
 
 export const metadata = {
   title: 'Paersek'
@@ -23,7 +21,6 @@ export default function HomePage() {
         />
         <Image src={DavidImage} alt="David" />
       </Container>
-    </Container>
 
   <Container orientation="vertical" gap={10}>
         <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
