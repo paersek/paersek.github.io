@@ -6,6 +6,7 @@ import {
   VimeoEmbed
 } from 'app/components';
 import DavidImage from 'app/images/David_5-16v1.png';
+import PeakSeasonImage from 'app/images/PeakSeasonPoster_WEB_5-21v2.png.';
 
 export const metadata = {
   title: 'Paersek'
@@ -20,6 +21,7 @@ export default function HomePage() {
           style={{ aspectRatio: '9 / 13' }}
         />
         <Image src={DavidImage} alt="David" />
+        <Image src={PeakSeasonImage} alt="PeakSeasonPoster"/>
       </Container>
       
      
