@@ -23,20 +23,7 @@ export default function HomePage() {
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
       </Container>
-        />
-      </Container>
-       <Container orientation="vertical" gap={0}>
-          <div>PRESS:</div>
-          <a
-            href="https://collider.com/peak-season-movie-review/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Collider: "A"
-          </a>
-        </Container>
-      
-      
+       
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           title="Directing Reel"
