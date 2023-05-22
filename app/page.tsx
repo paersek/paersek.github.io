@@ -24,8 +24,6 @@ export default function HomePage() {
         <Image src={DavidImage} alt="David" />
       </Container>
     </Container>
-  );
-}
 
   <Container orientation="vertical" gap={10}>
         <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
