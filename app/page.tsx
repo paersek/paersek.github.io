@@ -29,9 +29,6 @@ export default function HomePage() {
         />       
       </Container>
 
-          </Container>
-        </Container>
-
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           title="Directing Reel"
