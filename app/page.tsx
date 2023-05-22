@@ -46,7 +46,7 @@ export default function HomePage() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            ADWEEK: TIKTOK DEBUTS CREATOR PORTAL
+            ADWEEK: TIKTddOK DEBUTS CREATOR PORTAL
           </a>
         </Container>
 
