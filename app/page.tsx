@@ -41,10 +41,6 @@ export default function HomePage() {
           title="TikTok Creative Studio Marketing Reel - Lead Editor"
           videoId="776837738"
           type="landscape"
-                    fdfdsfs
-                    sfdsds
-                    fdsfds
-                    sdfdds
         />
       </Container>
        <Container orientation="vertical" gap={0}>
