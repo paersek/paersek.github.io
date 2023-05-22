@@ -22,8 +22,7 @@ export default function HomePage() {
         />
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
-      </Container>
-      credits={[
+         credits={[
             'Editors: Conor Kort, Patrick Ward',
             'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
             'Animation: Johnny Chiu',
@@ -32,6 +31,8 @@ export default function HomePage() {
             'Producer: Lee Sacks'
           ]}
         />
+      </Container>
+     
       
       
       <Container orientation="vertical" gap={10}>
