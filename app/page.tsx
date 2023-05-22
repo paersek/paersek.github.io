@@ -20,7 +20,9 @@ export default function HomePage() {
           src="https://mentalcanvas.com/vm/tr7fbzu/scene/"
           style={{ aspectRatio: '9 / 13' }}
         />
+         <SectionTitle title="TikToks" />
         <Image src={DavidImage} alt="David" />
+         <SectionTitle title="TikToks" />
         <Image src={DavidImage2} alt="David" />
           ]}
         />
@@ -77,7 +79,7 @@ export default function HomePage() {
       </Container>
 
       <Container orientation="vertical" gap={20}>
-        <SectionTitle title="TIKTOKS" />
+        <SectionTitle title="TikToks" />
 
         <Container orientation="vertical" gap={20}>
           <SectionTitle title="@TikTokTips - Feature Tutorials" />
