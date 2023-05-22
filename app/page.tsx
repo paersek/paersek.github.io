@@ -6,7 +6,6 @@ import {
   VimeoEmbed
 } from 'app/components';
 import DavidImage from 'app/images/David_5-16v1.png';
-import PeakSeasonImage from 'app/images/PeakSeasonPoster_WEB_5-21v2.png.';
 
 export const metadata = {
   title: 'Paersek'
@@ -21,10 +20,15 @@ export default function HomePage() {
           style={{ aspectRatio: '9 / 13' }}
         />
         <Image src={DavidImage} alt="David" />
-        <Image src={PeakSeasonImage} alt="PeakSeasonPoster"/>
       </Container>
       
-     
+      <Container orientation="vertical" gap={10}>
+        <VimeoEmbed
+          title="Directing Reel"
+          videoId="827763770"
+          type="landscape"
+        />
+      </Container>
 
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
@@ -40,7 +44,7 @@ export default function HomePage() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            ADWEEK: TIKTddOK DEBUTS CREATOR PORTAL
+            AdWeeK: TikTok Debuts Creator Portal
           </a>
         </Container>
 
