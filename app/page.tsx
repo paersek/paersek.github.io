@@ -1,3 +1,12 @@
+  <Container orientation="vertical" gap={10}>
+        <VimeoEmbed
+          title="Directing Reel"
+          videoId="827763770"
+          type="landscape"
+        />
+      </Container>
+
+
 import {
   Container,
   Embed,
@@ -24,19 +33,6 @@ export default function HomePage() {
         <Image src={DavidImage2} alt="David" />
       </Container>
        
-      <Container orientation="vertical" gap={20}>
-        <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
-          type="landscape"
-          credits={[
-            'Editors: Conor Kort, Patrick Ward',
-            'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
-            'Animation: Johnny Chiu',
-            '3D: Ian Alexander',
-            'Copy: Eric Simpson, Maddie Schafer',
-            'Producer: Lee Sacks'
-          ]}
-        />       
-      </Container>
       
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
