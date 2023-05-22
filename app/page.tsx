@@ -26,14 +26,6 @@ export default function HomePage() {
           <Container orientation="horizontal" gap={20}>
             <Image src={DavidImage} alt="David" />
                       type="landscape"
-          credits={[
-            'Editors: Conor Kort, Patrick Ward',
-            'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
-            'Animation: Johnny Chiu',
-            '3D: Ian Alexander',
-            'Copy: Eric Simpson, Maddie Schafer',
-            'Producer: Lee Sacks'
-          ]}
         />       
       </Container>
 
