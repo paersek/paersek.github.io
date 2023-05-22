@@ -20,20 +20,13 @@ export default function HomePage() {
           style={{ aspectRatio: '9 / 13' }}
         />
         <Image src={DavidImage} alt="David" />
-      </Container>
-      
-      <Container orientation="vertical" gap={20}>
-        <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
-        <Image src={DavidImage} alt="David" />
-          credits={[
+        credits={[
             'Editors: Conor Kort, Patrick Ward',
             'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
             'Animation: Johnny Chiu',
             '3D: Ian Alexander',
             'Copy: Eric Simpson, Maddie Schafer',
             'Producer: Lee Sacks'
-          ]}
-        />       
       </Container>
 
       <Container orientation="vertical" gap={10}>
