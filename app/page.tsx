@@ -24,10 +24,7 @@ export default function HomePage() {
         <Image src={DavidImage2} alt="David" />
       </Container>
       
-      import React from 'react';
-
-export default function PressLink() {
-  return (
+   
     <Container orientation="vertical" gap={0}>
       <div>PRESS:</div>
       <a
