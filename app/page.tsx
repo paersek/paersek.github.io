@@ -27,11 +27,11 @@ export default function HomePage() {
       <Container orientation="vertical" gap={0}>
           <div>PRESS:</div>
           <a
-            href="https://www.adweek.com/media/tiktok-debuts-tiktok-creator-portal/"
+            href="https://collider.com/peak-season-movie-review/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            AdWeeK: TikTok Debuts Creator Portal
+            Collider: "Beautiful in more ways than one." Rating: "A"
           </a>
          </Container>
 
