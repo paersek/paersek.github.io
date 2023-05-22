@@ -18,7 +18,7 @@ export default function HomePage() {
       <Container orientation="vertical" gap={10}>
         <Embed
           src="https://mentalcanvas.com/vm/tr7fbzu/scene/"
-          style={{ aspectRatio: '9 / 13' }}
+          style={{ aspectRatio: '9 / 11' }}
         />
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
