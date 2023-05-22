@@ -23,8 +23,8 @@ export default function HomePage() {
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
       </Container>
-      
-         </Container>
+        />
+      </Container>
        <Container orientation="vertical" gap={0}>
           <div>PRESS:</div>
           <a
@@ -33,16 +33,6 @@ export default function HomePage() {
             rel="noopener noreferrer"
           >
             Collider: "A"
-          </a>
-        </Container>
- </Container>
-       <Container orientation="vertical" gap={0}>
-          <a
-            href="https://www.thedailybeast.com/obsessed/peak-season-review-romantic-beauty-for-heartbroken-millennials"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            The Daily Beast: "See This"
           </a>
         </Container>
       
