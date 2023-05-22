@@ -5,7 +5,6 @@ import {
   SectionTitle,
   VimeoEmbed
 } from 'app/components';
-import DavidImage from 'app/images/David_5-16v1.png';
 import PeakSeasonPosterImage from 'app/images/PeakSeasonPoster_WEB_5-21v2.png';
 
 export const metadata = {
@@ -20,7 +19,7 @@ export default function HomePage() {
           src="https://mentalcanvas.com/vm/tr7fbzu/scene/"
           style={{ aspectRatio: '9 / 13' }}
         />
-        <Image src={DavidImage} alt="David" />
+       <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
       </Container>
     </Container>
       <Container orientation="vertical" gap={10}>
@@ -31,7 +30,7 @@ export default function HomePage() {
         />
       </Container>
       
-     <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
+     
 
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
