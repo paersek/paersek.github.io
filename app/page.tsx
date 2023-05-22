@@ -5,7 +5,7 @@ import {
   SectionTitle,
   VimeoEmbed
 } from 'app/components';
-import DavidImage from 'app/images/PeakSeasonPoster_WEB_5-21v2.png';
+import DavidImage from 'app/images/PeakSeasonPoster_WEB_5-21v3.png';
 
 export const metadata = {
   title: 'Paersek'
