@@ -29,7 +29,6 @@ export default function HomePage() {
             href="https://www.adweek.com/media/tiktok-debuts-tiktok-creator-portal/"
             target="_blank"
             rel="noopener noreferrer"
-          >
             AdWeeK: TikTok Debuts Creator Portal
           </a>
 
