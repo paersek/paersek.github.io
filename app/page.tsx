@@ -23,6 +23,15 @@ export default function HomePage() {
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
       </Container>
+      credits={[
+            'Editors: Conor Kort, Patrick Ward',
+            'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
+            'Animation: Johnny Chiu',
+            '3D: Ian Alexander',
+            'Copy: Eric Simpson, Maddie Schafer',
+            'Producer: Lee Sacks'
+          ]}
+        />
       
       
       <Container orientation="vertical" gap={10}>
