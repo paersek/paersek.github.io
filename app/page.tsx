@@ -20,10 +20,9 @@ export default function HomePage() {
           src="https://mentalcanvas.com/vm/tr7fbzu/scene/"
           style={{ aspectRatio: '9 / 13' }}
         />
-         <SectionTitle title="TikToks" />
         <Image src={DavidImage} alt="David" />
-         <SectionTitle title="TikToks" />
         <Image src={DavidImage2} alt="David" />
+         'Editors: Conor Kort, Patrick Ward',
           ]}
         />
       </Container>
