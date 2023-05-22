@@ -22,7 +22,6 @@ export default function HomePage() {
         />
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
-         'Editors: Conor Kort, Patrick Ward',
           ]}
         />
       </Container>
@@ -56,14 +55,14 @@ export default function HomePage() {
         </Container>
 
       <Container orientation="vertical" gap={20}>
-        <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
+        <SectionTitle title="TikTok Sports Campaign" />
         <VimeoEmbed
-          title="TIKTOK EVERGREEN 30s - EDITOR"
+          title="TikTok Evergreen 30s - Editor"
           videoId="827456818"
           type="landscape"
         />
         <VimeoEmbed
-          title="NFL CANADA - SOCIAL 30s - EDITOR"
+          title="NFL Canada - Social 30s - Editor"
           videoId="827456838"
           type="landscape"
           credits={[
