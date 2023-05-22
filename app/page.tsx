@@ -24,6 +24,28 @@ export default function HomePage() {
         <Image src={DavidImage2} alt="David" />
       </Container>
       
+         </Container>
+       <Container orientation="vertical" gap={0}>
+          <div>PRESS:</div>
+          <a
+            href="https://collider.com/peak-season-movie-review/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Collider: "A"
+          </a>
+        </Container>
+ </Container>
+       <Container orientation="vertical" gap={0}>
+          <a
+            href="https://www.thedailybeast.com/obsessed/peak-season-review-romantic-beauty-for-heartbroken-millennials"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            The Daily Beast: "See This"
+          </a>
+        </Container>
+      
       
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
