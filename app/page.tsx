@@ -5,7 +5,7 @@ import {
   SectionTitle,
   VimeoEmbed
 } from 'app/components';
-import DavidImage from 'app/images/DavidWordMarkWithField6.png';
+import DavidImage from 'app/images/DavidWordMarkWithField20.png';
 import DavidImage2 from 'app/images/PeakSeasonPoster_WEB_5-21v5.png';
 
 export const metadata = {
