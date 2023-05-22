@@ -29,9 +29,7 @@ export default function HomePage() {
           type="landscape"
         />
       </Container>
-      
-      
-      
+     
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           title="TikTok Creative Studio Marketing Reel - Lead Editor"
@@ -71,6 +69,19 @@ export default function HomePage() {
           ]}
         />       
       </Container>
+        <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
+          <Image src={PeakSeasonPoster_WEB.jpg} alt="PeakSeasonPoster_WEB.jpg" />
+          title="NFL CANADA - SOCIAL 30s - EDITOR"
+          type="landscape"
+          credits={[
+            'Editors: Conor Kort, Patrick Ward',
+            'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
+            'Animation: Johnny Chiu',
+            '3D: Ian Alexander',
+            'Copy: Eric Simpson, Maddie Schafer',
+            'Producer: Lee Sacks'
+      
+      <Container orientation="vertical" gap={20}>
 
       <Container orientation="vertical" gap={20}>
         <SectionTitle title="TIKTOKS" />
