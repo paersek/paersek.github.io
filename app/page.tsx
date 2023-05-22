@@ -53,14 +53,14 @@ export default function HomePage() {
         </Container>
 
       <Container orientation="vertical" gap={20}>
-        <SectionTitle title="TikTok Sports Campaign" />
+        <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
         <VimeoEmbed
-          title="TikTok Evergreen 30s - Editor"
+          title="TIKTOK EVERGREEN 30s - EDITOR"
           videoId="827456818"
           type="landscape"
         />
         <VimeoEmbed
-          title="NFL Canada - Social 30s - Editor"
+          title="NFL CANADA - SOCIAL 30s - EDITOR"
           videoId="827456838"
           type="landscape"
           credits={[
@@ -75,7 +75,7 @@ export default function HomePage() {
       </Container>
 
       <Container orientation="vertical" gap={20}>
-        <SectionTitle title="TikToks" />
+        <SectionTitle title="TIKTOKS" />
 
         <Container orientation="vertical" gap={20}>
           <SectionTitle title="@TikTokTips - Feature Tutorials" />
