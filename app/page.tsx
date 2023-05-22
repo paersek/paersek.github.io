@@ -21,7 +21,6 @@ export default function HomePage() {
           style={{ aspectRatio: '9 / 13' }}
         />
         <Image src={DavidImage} alt="David" />
-        <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
       </Container>
     </Container>
       <Container orientation="vertical" gap={10}>
@@ -32,6 +31,8 @@ export default function HomePage() {
         />
       </Container>
       
+     <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
+
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           title="TikTok Creative Studio Marketing Reel - Lead Editor"
