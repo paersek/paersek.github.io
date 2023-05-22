@@ -21,14 +21,6 @@ export default function HomePage() {
         />
         <Image src={DavidImage} alt="David" />
       </Container>
-      
-       <Container orientation="vertical" gap={20}>
-          <Container orientation="horizontal" gap={20}>
-            <Image src={DavidImage} alt="David" />
-                      type="landscape"
-       </Container>
-        />       
-      </Container>
 
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
@@ -36,7 +28,7 @@ export default function HomePage() {
           videoId="827763770"
           type="landscape"
         />
-      </Container>      
+      </Container>
       
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
