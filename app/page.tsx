@@ -25,15 +25,6 @@ export default function HomePage() {
       <Container orientation="vertical" gap={20}>
         <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
         <Image src={DavidImage} alt="David" />
-        <VimeoEmbed
-          title="TIKTOK EVERGREEN 30s - EDITOR"
-          videoId="827456818"
-          type="landscape"
-        />
-        <VimeoEmbed
-          title="NFL CANADA - SOCIAL 30s - EDITOR"
-          videoId="827456838"
-          type="landscape"
           credits={[
             'Editors: Conor Kort, Patrick Ward',
             'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
