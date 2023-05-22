@@ -20,15 +20,6 @@ export default function HomePage() {
           style={{ aspectRatio: '9 / 13' }}
         />
         <Image src={DavidImage} alt="David" />
-        credits={[
-            'Editors: Conor Kort, Patrick Ward',
-            'Art Direction / Design: Josh Covarrubias, Francis Mekhail',
-            'Animation: Johnny Chiu',
-            '3D: Ian Alexander',
-            'Copy: Eric Simpson, Maddie Schafer',
-            'Producer: Lee Sacks'
-          ]}
-        />       
       </Container>
 
       <Container orientation="vertical" gap={10}>
