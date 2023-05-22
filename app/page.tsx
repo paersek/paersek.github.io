@@ -6,7 +6,6 @@ import {
   VimeoEmbed
 } from 'app/components';
 import DavidImage from 'app/images/David_5-16v1.png';
-import PeakSeason from 'PeakSeasonPoster_WEB_5-21v2.png';
 export const metadata = {
   title: 'Paersek'
 };
@@ -22,7 +21,6 @@ export default function HomePage() {
         <Image src={DavidImage} alt="David" />
       </Container>
       
-      <Image src={PeakSeasonPoster_WEB_5-21v2.png} alt="David" />
 
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
