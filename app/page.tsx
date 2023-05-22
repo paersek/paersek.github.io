@@ -35,7 +35,7 @@ import PSImage from 'app/images/PeakSeasonPoster_WEB_5-21v2.png';
   return (
     <Container orientation="vertical" gap={100}>
       <Container orientation="vertical" gap={10}>
-        <Image src={PSimage} alt="PSimage" />
+        <Image src={PSImage} alt="PSimage" />
       </Container>
       
       
