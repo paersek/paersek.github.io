@@ -24,11 +24,6 @@ export default function HomePage() {
         <Image src={PeakSeasonPosterImage} alt="Peak Season Poster" />
       </Container>
     </Container>
-  );
-}
-
-      
-
       <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           title="Directing Reel"
