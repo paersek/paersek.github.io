@@ -26,6 +26,7 @@ export default function HomePage() {
           <Container orientation="horizontal" gap={20}>
             <Image src={DavidImage} alt="David" />
                       type="landscape"
+       </Container>
         />       
       </Container>
 
