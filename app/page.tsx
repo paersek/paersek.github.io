@@ -138,7 +138,6 @@ export default function HomePage() {
         
            <Container orientation="vertical" gap={10}>
         <VimeoEmbed
-          title="Directing Reel"
           videoId="828517347"
           type="landscape"
         />
