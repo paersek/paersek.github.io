@@ -27,8 +27,6 @@ export default function HomePage() {
       <Container orientation="vertical" gap={20}>
         <SectionTitle title="TIKTOK SPORTS CAMPAIGN" />
         <VimeoEmbed
-          title="TIKTOK EVERGREEN 30s - EDITOR"
-          videoId="827456818"
           type="landscape"
           credits={[
             'Editors: Conor Kort, Patrick Ward',
