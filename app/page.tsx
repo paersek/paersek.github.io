@@ -22,17 +22,6 @@ export default function HomePage() {
         />
         <Image src={DavidImage} alt="David" />
         <Image src={DavidImage2} alt="David" />
-         </Container>
-       <Container orientation="vertical" gap={0}>
-          <div>PRESS:</div>
-          <a
-            href="https://www.adweek.com/media/tiktok-debuts-tiktok-creator-portal/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            AdWeeK: TikTok Debuts Creator Portal
-          </a>
-        </Container>
       </Container>
        
       <Container orientation="vertical" gap={10}>
