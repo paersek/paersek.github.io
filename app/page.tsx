@@ -148,6 +148,16 @@ export default function HomePage() {
           </Container>
         </Container>
         
+            <Container orientation="vertical" gap={20}>
+          <Container orientation="horizontal" gap={20}>
+            <VimeoEmbed videoId="828064396" type="portrait" />
+            <VimeoEmbed videoId="828517298" type="portrait" />
+            <VimeoEmbed videoId="827811868" type="portrait" />
+          </Container>
+        </Container>
+        
+        
+        
            <Container orientation="vertical" gap={10}>
         <VimeoEmbed
           videoId="828517347"
