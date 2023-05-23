@@ -12,12 +12,6 @@ export const metadata = {
   title: 'Paersek'
 };
 
- <Container orientation="vertical" gap={10}>
-          title="Ti5dfgdfgdfkTok Creative Studio Marketing Reel - Lead Editor
-          type="landscape"
-        />
-      </Container>
-
 export default function HomePage() {
   return (
     <Container orientation="vertical" gap={100}>
