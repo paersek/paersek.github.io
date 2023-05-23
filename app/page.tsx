@@ -13,7 +13,6 @@ export const metadata = {
 };
 
  <Container orientation="vertical" gap={10}>
-        <VimeoEmbed
           title="Ti5dfgdfgdfkTok Creative Studio Marketing Reel - Lead Editor
           type="landscape"
         />
