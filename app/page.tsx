@@ -12,7 +12,12 @@ export const metadata = {
   title: 'Paersek'
 };
 
-title="PW BIO"
+ <Container orientation="vertical" gap={10}>
+        <VimeoEmbed
+          title="Ti5dfgdfgdfkTok Creative Studio Marketing Reel - Lead Editor
+          type="landscape"
+        />
+      </Container>
 
 export default function HomePage() {
   return (
