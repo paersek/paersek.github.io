@@ -12,6 +12,13 @@ export const metadata = {
   title: 'Paersek'
 };
 
+
+<Container orientation="vertical" gap={0}>
+          <div>BIO</div>
+            Patrick Ward is a director, writer, and animator from Illinois who now lives in Los Angeles. Paersek is the result of typo. 
+          </a>
+         </Container>
+
 export default function HomePage() {
   return (
     <Container orientation="vertical" gap={100}>
